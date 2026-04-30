@@ -30,6 +30,7 @@
     var css = `
     /* 首页信息流 */
     .item,
+    #TopicsHot,
     /* 删了就失效了, 不知道为啥 */
     .pop-live-small-mode {
         display: none!important;
